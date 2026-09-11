@@ -1,0 +1,3147 @@
+[
+  {
+    "id": 1,
+    "title": "道德经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.8,
+    "description": "宇宙本源之道的最高表达，频率锚定万物归一"
+  },
+  {
+    "id": 2,
+    "title": "庄子",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "青色",
+    "frequency": 9.5,
+    "description": "逍遥游于无穷天地，解构一切认知边界"
+  },
+  {
+    "id": 3,
+    "title": "金刚经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "紫色",
+    "frequency": 9.9,
+    "description": "一切有为法如梦幻泡影，直指空性本源"
+  },
+  {
+    "id": 4,
+    "title": "心经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 10.0,
+    "description": "色即是空空即是色，最短路径通达觉悟"
+  },
+  {
+    "id": 5,
+    "title": "易经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.7,
+    "description": "宇宙变化的终极密码，天人合一的智慧枢纽"
+  },
+  {
+    "id": 6,
+    "title": "黄帝内经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "绿色",
+    "frequency": 8.9,
+    "description": "人体小宇宙与大宇宙的共振法则"
+  },
+  {
+    "id": 7,
+    "title": "山海经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "彩虹",
+    "frequency": 9.2,
+    "description": "上古文明的星际地图，神话背后的高维真相"
+  },
+  {
+    "id": 8,
+    "title": "楞严经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.6,
+    "description": "五十种阴魔的识别指南，修行者的防护盾"
+  },
+  {
+    "id": 9,
+    "title": "法华经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.8,
+    "description": "一切众生皆可成佛的终极宣告"
+  },
+  {
+    "id": 10,
+    "title": "论语",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 8.5,
+    "description": "人伦之道的根基，升维之前的必要修行"
+  },
+  {
+    "id": 11,
+    "title": "中庸",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 8.7,
+    "description": "不偏不倚的宇宙平衡法则"
+  },
+  {
+    "id": 12,
+    "title": "大学",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 8.6,
+    "description": "修身齐家治国平天下的升维阶梯"
+  },
+  {
+    "id": 13,
+    "title": "列子",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "青色",
+    "frequency": 9.3,
+    "description": "御风而行的自由之道"
+  },
+  {
+    "id": 14,
+    "title": "淮南子",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "青色",
+    "frequency": 9.1,
+    "description": "汉代黄老之学的集大成者"
+  },
+  {
+    "id": 15,
+    "title": "楚辞",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "紫色",
+    "frequency": 9.0,
+    "description": "浪漫主义与灵性觉醒的源头"
+  },
+  {
+    "id": 16,
+    "title": "穆天子传",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 8.8,
+    "description": "周穆王的西域星际旅行记"
+  },
+  {
+    "id": 17,
+    "title": "六祖坛经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.7,
+    "description": "禅宗顿悟法门的源头，直指人心见性成佛"
+  },
+  {
+    "id": 18,
+    "title": "瑜伽经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "紫色",
+    "frequency": 9.4,
+    "description": "意识控制的科学方法论"
+  },
+  {
+    "id": 19,
+    "title": "薄伽梵歌",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "蓝色",
+    "frequency": 9.5,
+    "description": "奎师那对阿周那的宇宙级教导"
+  },
+  {
+    "id": 20,
+    "title": "奥义书",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.6,
+    "description": "梵我合一的终极哲学"
+  },
+  {
+    "id": 21,
+    "title": "大乘起信论",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.5,
+    "description": "如来藏思想的核心经典"
+  },
+  {
+    "id": 22,
+    "title": "维摩诘经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.7,
+    "description": "在世间修行而不染世间的最高典范"
+  },
+  {
+    "id": 23,
+    "title": "圆觉经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.6,
+    "description": "十二位菩萨圆觉法门的总集"
+  },
+  {
+    "id": 24,
+    "title": "楞伽经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "紫色",
+    "frequency": 9.5,
+    "description": "禅宗正法的印心经典"
+  },
+  {
+    "id": 25,
+    "title": "涅槃经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.8,
+    "description": "一切众生皆有佛性的最高宣言"
+  },
+  {
+    "id": 26,
+    "title": "华严经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.9,
+    "description": "华藏世界海的宇宙全息图景"
+  },
+  {
+    "id": 27,
+    "title": "唯识三十颂",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "蓝色",
+    "frequency": 9.3,
+    "description": "意识结构的精密科学"
+  },
+  {
+    "id": 28,
+    "title": "中论",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.6,
+    "description": "龙树菩萨的空性逻辑"
+  },
+  {
+    "id": 29,
+    "title": "十二门论",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.4,
+    "description": "破斥一切执着的智慧利剑"
+  },
+  {
+    "id": 30,
+    "title": "大智度论",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.5,
+    "description": "菩萨道的完整百科全书"
+  },
+  {
+    "id": 31,
+    "title": "成唯识论",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "蓝色",
+    "frequency": 9.2,
+    "description": "八识结构的深度解析"
+  },
+  {
+    "id": 32,
+    "title": "大乘玄论",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "紫色",
+    "frequency": 9.1,
+    "description": "三论宗的哲学巅峰"
+  },
+  {
+    "id": 33,
+    "title": "法华玄义",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.4,
+    "description": "天台宗的圆教哲学"
+  },
+  {
+    "id": 34,
+    "title": "摩诃止观",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.5,
+    "description": "天台修行的完整体系"
+  },
+  {
+    "id": 35,
+    "title": "华严金狮子章",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.6,
+    "description": "法藏大师的华严精髓"
+  },
+  {
+    "id": 36,
+    "title": "六祖法宝坛经",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "金色",
+    "frequency": 9.7,
+    "description": "中国化佛教的革命性经典"
+  },
+  {
+    "id": 37,
+    "title": "信心铭",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "白色",
+    "frequency": 9.5,
+    "description": "三祖僧璨的开悟指南"
+  },
+  {
+    "id": 38,
+    "title": "碧岩录",
+    "category": "天道智慧",
+    "subcategory": "东方智慧经典",
+    "energy": "青色",
+    "frequency": 9.3,
+    "description": "禅宗公案的巅峰之作"
+  },
+  {
+    "id": 39,
+    "title": "一的法则（卷一）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.9,
+    "description": "RA 社会记忆复合体的宇宙传导，密度 Ascension 的完整蓝图"
+  },
+  {
+    "id": 40,
+    "title": "一的法则（卷二）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.9,
+    "description": "深入探索流浪者与觉醒者的宇宙使命"
+  },
+  {
+    "id": 41,
+    "title": "一的法则（卷三）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.9,
+    "description": "关于轮回、化身与宇宙法则的深层解码"
+  },
+  {
+    "id": 42,
+    "title": "一的法则（卷四）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.9,
+    "description": "关于爱与智慧的平衡，能量中心的激活"
+  },
+  {
+    "id": 43,
+    "title": "一的法则（卷五）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.9,
+    "description": "关于个人修炼与地球扬升的终极指引"
+  },
+  {
+    "id": 44,
+    "title": "赛斯书：灵魂永生",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "青色",
+    "frequency": 9.4,
+    "description": "你创造你自己的实相，意识不灭的终极证明"
+  },
+  {
+    "id": 45,
+    "title": "赛斯书：个人实相的本质",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "青色",
+    "frequency": 9.4,
+    "description": "信念创造经验，你是自己宇宙的上帝"
+  },
+  {
+    "id": 46,
+    "title": "赛斯书：未知的实相",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "青色",
+    "frequency": 9.3,
+    "description": "探索平行自我与可能性系统的无限疆域"
+  },
+  {
+    "id": 47,
+    "title": "赛斯书：梦、进化与价值完成",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "青色",
+    "frequency": 9.3,
+    "description": "梦境是通往其他实相的门户"
+  },
+  {
+    "id": 48,
+    "title": "与神对话（卷一）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.3,
+    "description": "神以最平易近人的方式讲述宇宙真相"
+  },
+  {
+    "id": 49,
+    "title": "与神对话（卷二）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.3,
+    "description": "关于关系、人生目的与宇宙运作的深层教导"
+  },
+  {
+    "id": 50,
+    "title": "与神对话（卷三）",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.3,
+    "description": "关于宇宙学、政治与地球未来的高瞻远瞩"
+  },
+  {
+    "id": 51,
+    "title": "与神为友",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.2,
+    "description": "建立与神性源头的日常连接"
+  },
+  {
+    "id": 52,
+    "title": "与神合一",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.2,
+    "description": "体验与万有合一的终极状态"
+  },
+  {
+    "id": 53,
+    "title": "重新创造自己",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.1,
+    "description": "荷洛波的实践指南"
+  },
+  {
+    "title": "飞碟探索三十年",
+    "author": "《飞碟探索》杂志社",
+    "subcategory": "星际文明文献",
+    "category": "天道智慧",
+    "publisher": "甘肃科学技术出版社",
+    "id": 54,
+    "energy": "青色",
+    "frequency": 9.2,
+    "description": "来自高维文明的宇宙传导，拓展人类认知边界"
+  },
+  {
+    "title": "罗斯威尔事件",
+    "author": "唐纳德·施密特",
+    "subcategory": "星际文明文献",
+    "category": "天道智慧",
+    "publisher": "江苏人民出版社",
+    "id": 55,
+    "energy": "青色",
+    "frequency": 9.2,
+    "description": "来自高维文明的宇宙传导，拓展人类认知边界"
+  },
+  {
+    "id": 56,
+    "title": "地球编年史：第十二个天体",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "棕色",
+    "frequency": 8.7,
+    "description": "苏美尔文明中的外星创世叙事"
+  },
+  {
+    "id": 57,
+    "title": "地球编年史：通往天国的阶梯",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "棕色",
+    "frequency": 8.7,
+    "description": "金字塔作为星际导航站的证据"
+  },
+  {
+    "id": 58,
+    "title": "地球编年史：众神与人类的战争",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "棕色",
+    "frequency": 8.7,
+    "description": "古代神战背后的星际冲突"
+  },
+  {
+    "id": 59,
+    "title": "地球编年史：失落的国度",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "棕色",
+    "frequency": 8.7,
+    "description": "美洲大陆上的远古外星文明遗迹"
+  },
+  {
+    "id": 60,
+    "title": "失落的文明：亚特兰蒂斯",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.0,
+    "description": "沉没大陆的文明真相与灵性遗产"
+  },
+  {
+    "id": 61,
+    "title": "失落的文明：雷姆利亚",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "绿色",
+    "frequency": 8.9,
+    "description": "太平洋古陆的温柔文明与水晶科技"
+  },
+  {
+    "title": "揭秘莱瑟塔档案",
+    "author": "克里斯·斯特林",
+    "subcategory": "星际文明文献",
+    "category": "天道智慧",
+    "publisher": "华夏出版社",
+    "id": 62,
+    "energy": "青色",
+    "frequency": 9.2,
+    "description": "来自高维文明的宇宙传导，拓展人类认知边界"
+  },
+  {
+    "title": "道西基地内幕",
+    "author": "安东尼·桑切斯",
+    "subcategory": "星际文明文献",
+    "category": "天道智慧",
+    "publisher": "浙江人民出版社",
+    "id": 63,
+    "energy": "青色",
+    "frequency": 9.2,
+    "description": "来自高维文明的宇宙传导，拓展人类认知边界"
+  },
+  {
+    "id": 64,
+    "title": "天鹅座之谜",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "远古人类与外星文明的星际联系"
+  },
+  {
+    "id": 65,
+    "title": "宇宙一体论",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "蓝色",
+    "frequency": 9.0,
+    "description": "从科学角度论证宇宙的统一性"
+  },
+  {
+    "id": 66,
+    "title": "海奥华预言",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "金色",
+    "frequency": 9.3,
+    "description": "九级星球的外星人传授宇宙真理"
+  },
+  {
+    "title": "接触：外星文明的科学探索",
+    "author": "卡尔·萨根",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "吉林人民出版社",
+    "id": 67,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "外星人的考古学",
+    "author": "保罗·巴锡尔",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "中国友谊出版公司",
+    "id": 68,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "水晶易经",
+    "author": "奥洛尔·多诺修",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "湖南文艺出版社",
+    "id": 69,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "星际迷航中的物理学",
+    "author": "劳伦斯·克劳斯",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "海南出版社",
+    "id": 70,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "光的课程",
+    "author": "安东尼·莫珍",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "光的课程信息中心",
+    "id": 71,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "盖亚：地球生命的新视野",
+    "author": "詹姆斯·洛夫洛克",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "上海人民出版社",
+    "id": 72,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "光子时代",
+    "author": "马歇尔·布里克曼",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "机械工业出版社",
+    "id": 73,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 74,
+    "title": "阿卡西记录入门",
+    "category": "天道智慧",
+    "subcategory": "星际文明文献",
+    "energy": "紫色",
+    "frequency": 9.4,
+    "description": "宇宙信息场的读取与运用"
+  },
+  {
+    "title": "银河公民",
+    "author": "罗伯特·海因莱因",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "四川科学技术出版社",
+    "id": 75,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "title": "量子力学概论",
+    "author": "大卫·J·格里菲斯",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "机械工业出版社",
+    "id": 76,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 77,
+    "title": "时间简史",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 9.1,
+    "description": "从宇宙大爆炸到黑洞，物理学的灵性觉醒"
+  },
+  {
+    "id": 78,
+    "title": "宇宙的琴弦",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "金色",
+    "frequency": 9.0,
+    "description": "弦理论揭示的多维宇宙结构"
+  },
+  {
+    "id": 79,
+    "title": "意识的宇宙",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "青色",
+    "frequency": 9.3,
+    "description": "神经科学视角下的意识本质探索"
+  },
+  {
+    "id": 80,
+    "title": "量子意识",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "紫色",
+    "frequency": 9.4,
+    "description": "彭罗斯与哈梅洛夫的量子灵魂理论"
+  },
+  {
+    "id": 81,
+    "title": "生物中心主义",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "绿色",
+    "frequency": 9.2,
+    "description": "兰萨：生命与意识是宇宙的基础"
+  },
+  {
+    "id": 82,
+    "title": "黑洞与时间弯曲",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "黑色",
+    "frequency": 9.0,
+    "description": "时空结构的深层奥秘"
+  },
+  {
+    "title": "大爆炸简史",
+    "author": "西蒙·辛格",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "湖南科学技术出版社",
+    "id": 83,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 84,
+    "title": "引力之谜",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 8.8,
+    "description": "爱因斯坦场方程背后的宇宙秩序"
+  },
+  {
+    "title": "宇宙的琴弦",
+    "author": "布莱恩·格林",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "湖南科学技术出版社",
+    "id": 85,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 86,
+    "title": "圈量子引力",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 8.9,
+    "description": "时空本身的量子化本质"
+  },
+  {
+    "id": 87,
+    "title": "全息宇宙论",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "紫色",
+    "frequency": 9.3,
+    "description": "宇宙是一张全息投影的二维信息膜"
+  },
+  {
+    "id": 88,
+    "title": "量子纠缠与超距作用",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "紫色",
+    "frequency": 9.2,
+    "description": "非定域性：万物一体的物理证明"
+  },
+  {
+    "title": "量子力学的多世界诠释",
+    "author": "休·埃弗雷特",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "科学出版社",
+    "id": 89,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 90,
+    "title": "量子场论",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 9.0,
+    "description": "场的振动产生物质与意识"
+  },
+  {
+    "id": 91,
+    "title": "意识与脑",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "绿色",
+    "frequency": 8.8,
+    "description": "意识是大脑的产物还是独立存在"
+  },
+  {
+    "id": 92,
+    "title": "心物问题",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "紫色",
+    "frequency": 9.1,
+    "description": "意识与物质关系的哲学科学探索"
+  },
+  {
+    "title": "信息简史",
+    "author": "詹姆斯·格雷克",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "人民邮电出版社",
+    "id": 93,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 94,
+    "title": "熵与生命",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "绿色",
+    "frequency": 8.8,
+    "description": "生命如何对抗熵增的宇宙趋势"
+  },
+  {
+    "id": 95,
+    "title": "涌现论",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "青色",
+    "frequency": 8.9,
+    "description": "复杂系统中的整体大于部分之和"
+  },
+  {
+    "id": 96,
+    "title": "复杂适应系统",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 8.7,
+    "description": "从细胞到文明的自组织规律"
+  },
+  {
+    "title": "大自然的分形几何学",
+    "author": "伯努瓦·曼德尔布罗",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "世界图书出版公司",
+    "id": 97,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 98,
+    "title": "混沌与秩序",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "金色",
+    "frequency": 8.8,
+    "description": "确定性系统中的不可预测之美"
+  },
+  {
+    "title": "复杂",
+    "author": "梅拉妮·米歇尔",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "湖南科学技术出版社",
+    "id": 99,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 100,
+    "title": "量子真空",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "透明",
+    "frequency": 9.2,
+    "description": "零点能：宇宙中最深的能量之海"
+  },
+  {
+    "id": 101,
+    "title": "暗物质与暗能量",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "黑色",
+    "frequency": 9.0,
+    "description": "不可见的宇宙主角"
+  },
+  {
+    "title": "最初三分钟",
+    "author": "史蒂文·温伯格",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "重庆大学出版社",
+    "id": 102,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 103,
+    "title": "引力波探测",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 8.9,
+    "description": "聆听宇宙时空的涟漪"
+  },
+  {
+    "title": "中微子猎手",
+    "author": "雷·贾亚瓦哈纳",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "上海科技教育出版社",
+    "id": 104,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 105,
+    "title": "宇宙学常数之谜",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "紫色",
+    "frequency": 8.9,
+    "description": "为什么宇宙刚好适合生命存在"
+  },
+  {
+    "title": "宇宙巧合之谜",
+    "author": "保罗·戴维斯",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "湖南科学技术出版社",
+    "id": 106,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 107,
+    "title": "无边界假设",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "白色",
+    "frequency": 9.1,
+    "description": "霍金：宇宙没有起点也没有终点"
+  },
+  {
+    "title": "暴胀宇宙学",
+    "author": "阿兰·古斯",
+    "subcategory": "宇宙科学前沿",
+    "category": "天道智慧",
+    "publisher": "世界图书出版公司",
+    "id": 108,
+    "energy": "紫色",
+    "frequency": 8.8,
+    "description": "现代科学与灵性智慧的交汇，探索宇宙终极奥秘"
+  },
+  {
+    "id": 109,
+    "title": "时间之箭",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "蓝色",
+    "frequency": 8.8,
+    "description": "为什么时间只向前流动"
+  },
+  {
+    "id": 110,
+    "title": "因果律与自由意志",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "紫色",
+    "frequency": 9.0,
+    "description": "决定论宇宙中的选择"
+  },
+  {
+    "id": 111,
+    "title": "量子计算与意识",
+    "category": "天道智慧",
+    "subcategory": "宇宙科学前沿",
+    "energy": "青色",
+    "frequency": 9.1,
+    "description": "量子大脑：意识的计算基础"
+  },
+  {
+    "title": "地球脉轮",
+    "author": "罗伯特·科克帕特里克",
+    "subcategory": "地球能量学",
+    "category": "地道智慧",
+    "publisher": "北京联合出版公司",
+    "id": 112,
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "地球能量场的秘密与万物互联的智慧"
+  },
+  {
+    "id": 113,
+    "title": "水晶能量全书",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "透明",
+    "frequency": 8.8,
+    "description": "矿物王国的意识与疗愈频率"
+  },
+  {
+    "id": 114,
+    "title": "植物的秘密生活",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.4,
+    "description": "植物意识的惊人真相与地球生态智慧"
+  },
+  {
+    "id": 115,
+    "title": "大自然的疗愈力量",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "回归自然频率的身心修复之道"
+  },
+  {
+    "title": "世界能量网格",
+    "author": "布鲁斯·凯瑟",
+    "subcategory": "地球能量学",
+    "category": "地道智慧",
+    "publisher": "华夏出版社",
+    "id": 116,
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "地球能量场的秘密与万物互联的智慧"
+  },
+  {
+    "id": 117,
+    "title": "风水秘典",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "环境能量与人的命运共振"
+  },
+  {
+    "id": 118,
+    "title": "葬书",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "棕色",
+    "frequency": 8.3,
+    "description": "郭璞：藏风聚气的地球能量学"
+  },
+  {
+    "id": 119,
+    "title": "阳宅十书",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "金色",
+    "frequency": 8.4,
+    "description": "居住环境的气场布局法则"
+  },
+  {
+    "id": 120,
+    "title": "地理五诀",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.2,
+    "description": "龙穴砂水向的能量密码"
+  },
+  {
+    "id": 121,
+    "title": "矿物的疗愈力量",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "透明",
+    "frequency": 8.6,
+    "description": "每一种矿石的特定振动频率"
+  },
+  {
+    "id": 122,
+    "title": "宝石光能疗法",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "彩虹",
+    "frequency": 8.7,
+    "description": "色彩频率与人体脉轮对应"
+  },
+  {
+    "title": "石头的智慧",
+    "author": "罗伯特·西蒙斯",
+    "subcategory": "地球能量学",
+    "category": "地道智慧",
+    "publisher": "中央编译出版社",
+    "id": 123,
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "地球能量场的秘密与万物互联的智慧"
+  },
+  {
+    "id": 124,
+    "title": "水的记忆与意识",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "蓝色",
+    "frequency": 8.8,
+    "description": "江本胜：水能感知人类意识"
+  },
+  {
+    "id": 125,
+    "title": "地球脉轮：七个能量中心",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "彩虹",
+    "frequency": 8.9,
+    "description": "从沙斯塔山到雪士达山的能量线"
+  },
+  {
+    "id": 126,
+    "title": "雷线与龙脉",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "金色",
+    "frequency": 8.6,
+    "description": "全球性的能量线网络"
+  },
+  {
+    "id": 127,
+    "title": "巨石阵的真相",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "银色",
+    "frequency": 8.5,
+    "description": "史前能量站的运作原理"
+  },
+  {
+    "id": 128,
+    "title": "埃及金字塔的能量场",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "金色",
+    "frequency": 8.9,
+    "description": "宇宙共振器的建造秘密"
+  },
+  {
+    "id": 129,
+    "title": "神圣几何与自然",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "金色",
+    "frequency": 8.8,
+    "description": "黄金比例与生命之花"
+  },
+  {
+    "title": "大天使 Michael 之书",
+    "author": "朵琳·芙秋",
+    "subcategory": "地球能量学",
+    "category": "地道智慧",
+    "publisher": "生命潜能出版社",
+    "id": 130,
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "地球能量场的秘密与万物互联的智慧"
+  },
+  {
+    "id": 131,
+    "title": "植物之灵",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "每株植物都是一位智慧的导师"
+  },
+  {
+    "id": 132,
+    "title": "森林的隐秘生活",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.6,
+    "description": "树木之间的地下神经网络"
+  },
+  {
+    "id": 133,
+    "title": "动物的智慧",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "棕色",
+    "frequency": 8.4,
+    "description": "动物意识与人类进化的关联"
+  },
+  {
+    "id": 134,
+    "title": "海洋生物的意识",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "蓝色",
+    "frequency": 8.5,
+    "description": "海洋意识场的深度探索"
+  },
+  {
+    "id": 135,
+    "title": "地球的呼吸",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "绿色",
+    "frequency": 8.7,
+    "description": "舒曼共振与地球的心跳"
+  },
+  {
+    "id": 136,
+    "title": "火山能量学",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "红色",
+    "frequency": 8.3,
+    "description": "地心能量在地表的释放点"
+  },
+  {
+    "id": 137,
+    "title": "洞穴的灵性力量",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "黑色",
+    "frequency": 8.4,
+    "description": "进入地心深处的冥想空间"
+  },
+  {
+    "id": 138,
+    "title": "山脉的能量守护",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "白色",
+    "frequency": 8.6,
+    "description": "雪山的清净频率与修行圣地"
+  },
+  {
+    "id": 139,
+    "title": "河流的能量疗愈",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "蓝色",
+    "frequency": 8.5,
+    "description": "流动水的净化与赋能"
+  },
+  {
+    "id": 140,
+    "title": "海洋的能量场",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "蓝色",
+    "frequency": 8.7,
+    "description": "海洋作为地球意识的子宫"
+  },
+  {
+    "id": 141,
+    "title": "沙漠的静默智慧",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "金色",
+    "frequency": 8.4,
+    "description": "空旷中的丰盛与宇宙的耳语"
+  },
+  {
+    "id": 142,
+    "title": "风暴的能量转化",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "紫色",
+    "frequency": 8.5,
+    "description": "雷暴中的高维信息下载"
+  },
+  {
+    "id": 143,
+    "title": "四季能量循环",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "彩虹",
+    "frequency": 8.6,
+    "description": "春夏秋冬的修行节律"
+  },
+  {
+    "id": 144,
+    "title": "月相与地球潮汐",
+    "category": "地道智慧",
+    "subcategory": "地球能量学",
+    "energy": "银色",
+    "frequency": 8.5,
+    "description": "月亮对生物节律的深层影响"
+  },
+  {
+    "title": "太阳风暴",
+    "author": "劳伦斯·约瑟夫",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "湖南科学技术出版社",
+    "id": 145,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "title": "地磁翻转",
+    "author": "阿拉丝塔·福瑟吉尔",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "中信出版社",
+    "id": 146,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "title": "地球颤抖",
+    "author": "杰克·努恩",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "上海科学技术出版社",
+    "id": 147,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "title": "舒曼共振",
+    "author": "诺伯特·马科瓦奇",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "人民邮电出版社",
+    "id": 148,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "id": 149,
+    "title": "生物能量学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "红色",
+    "frequency": 8.7,
+    "description": "细胞层面的能量流动与生命运作机制"
+  },
+  {
+    "id": 150,
+    "title": "人体能量场",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "紫色",
+    "frequency": 9.0,
+    "description": "aura 光环的科学观测与灵性解读"
+  },
+  {
+    "id": 151,
+    "title": "细胞的生命",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "绿色",
+    "frequency": 8.6,
+    "description": "细胞意识与整体的智慧"
+  },
+  {
+    "id": 152,
+    "title": "基因的分子生物学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "蓝色",
+    "frequency": 8.5,
+    "description": "DNA 作为宇宙软件的存储介质"
+  },
+  {
+    "id": 153,
+    "title": "大脑的秘密",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "蓝色",
+    "frequency": 8.6,
+    "description": "神经可塑性与意识的物理基础"
+  },
+  {
+    "id": 154,
+    "title": "神经可塑性",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "蓝色",
+    "frequency": 8.6,
+    "description": "大脑 rewiring 的无限潜能与意识升级"
+  },
+  {
+    "id": 155,
+    "title": "心脑沟通",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "红色",
+    "frequency": 8.8,
+    "description": "心脏的神经簇：心有自己的智慧"
+  },
+  {
+    "id": 156,
+    "title": "营养的真相",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "绿色",
+    "frequency": 8.4,
+    "description": "食物频率与身体振动层级"
+  },
+  {
+    "id": 157,
+    "title": "食物与能量",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "橙色",
+    "frequency": 8.5,
+    "description": "不同食物对能量场的影响"
+  },
+  {
+    "id": 158,
+    "title": "端粒与长寿",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "金色",
+    "frequency": 8.7,
+    "description": "意识状态影响细胞寿命的科学证明"
+  },
+  {
+    "id": 159,
+    "title": "肠道微生物组",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "绿色",
+    "frequency": 8.5,
+    "description": "第二大脑：肠道与意识的深层连接"
+  },
+  {
+    "id": 160,
+    "title": "免疫系统与情绪",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "红色",
+    "frequency": 8.6,
+    "description": "情绪状态直接影响免疫功能"
+  },
+  {
+    "id": 161,
+    "title": "荷尔蒙的秘密语言",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "粉色",
+    "frequency": 8.5,
+    "description": "内分泌系统的灵性信号"
+  },
+  {
+    "id": 162,
+    "title": "睡眠与意识修复",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "蓝色",
+    "frequency": 8.7,
+    "description": "深度睡眠中的意识净化与重组"
+  },
+  {
+    "title": "梦的解析",
+    "author": "西格蒙德·弗洛伊德",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "商务印书馆",
+    "id": 163,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "id": 164,
+    "title": "干细胞与再生医学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "绿色",
+    "frequency": 8.7,
+    "description": "身体自愈能力的科学开发"
+  },
+  {
+    "id": 165,
+    "title": "光合作用与意识",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "绿色",
+    "frequency": 8.6,
+    "description": "植物能量转化的宇宙原理"
+  },
+  {
+    "title": "量子生物学入门",
+    "author": "吉姆·艾尔-哈利利",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "浙江人民出版社",
+    "id": 166,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "id": 167,
+    "title": "鸟类迁徙的能量导航",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "蓝色",
+    "frequency": 8.4,
+    "description": "动物内在的罗盘与地球磁场"
+  },
+  {
+    "id": 168,
+    "title": "共振现象与生命",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "透明",
+    "frequency": 8.8,
+    "description": "万物共振的生物学证据"
+  },
+  {
+    "id": 169,
+    "title": "水的第四相",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "蓝色",
+    "frequency": 8.9,
+    "description": "EZ 水：细胞能量的秘密来源"
+  },
+  {
+    "id": 170,
+    "title": "人类基因组计划",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "blue",
+    "frequency": 8.5,
+    "description": "23 对染色体中的星际编码"
+  },
+  {
+    "title": "生命的未来",
+    "author": "克雷格·文特尔",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "浙江人民出版社",
+    "id": 171,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "id": 172,
+    "title": "濒死体验科学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "white",
+    "frequency": 9.1,
+    "description": "临床死亡后的意识延续证据"
+  },
+  {
+    "id": 173,
+    "title": "前世记忆研究",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "purple",
+    "frequency": 8.9,
+    "description": "伊恩·史蒂文森的轮回科学证据"
+  },
+  {
+    "id": 174,
+    "title": "意识与脑电波",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "blue",
+    "frequency": 8.7,
+    "description": "不同意识状态的脑电频率图谱"
+  },
+  {
+    "id": 175,
+    "title": "冥想的大脑改变",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "purple",
+    "frequency": 9.0,
+    "description": "长期冥想重塑大脑结构的科学证明"
+  },
+  {
+    "id": 176,
+    "title": "瑜伽的生理学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "red",
+    "frequency": 8.7,
+    "description": "体式与呼吸对能量体的物理影响"
+  },
+  {
+    "id": 177,
+    "title": "针灸的能量科学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "red",
+    "frequency": 8.8,
+    "description": "经络系统的生物物理检测"
+  },
+  {
+    "id": 178,
+    "title": "中医五行理论",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "green",
+    "frequency": 8.9,
+    "description": "五行的能量动力学与人体健康"
+  },
+  {
+    "id": 179,
+    "title": " Ayurveda 生命科学",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "gold",
+    "frequency": 8.8,
+    "description": "印度古老的整体医学体系"
+  },
+  {
+    "id": 180,
+    "title": "西藏医心术",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "blue",
+    "frequency": 8.9,
+    "description": "藏医对身心关系的独特理解"
+  },
+  {
+    "id": 181,
+    "title": "人体经络解密",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "red",
+    "frequency": 8.8,
+    "description": "现代技术对经络的可视化研究"
+  },
+  {
+    "id": 182,
+    "title": "脉轮的科学基础",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "rainbow",
+    "frequency": 9.1,
+    "description": "能量中心的生物物理证据"
+  },
+  {
+    "id": 183,
+    "title": "气场的摄影证据",
+    "category": "地道智慧",
+    "subcategory": "生命科学",
+    "energy": "purple",
+    "frequency": 8.9,
+    "description": "克里安摄影术的原理与应用"
+  },
+  {
+    "title": "基因组",
+    "author": "马特·里德利",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "机械工业出版社",
+    "id": 184,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "title": "松果体与第三眼",
+    "author": "大卫·威尔科克",
+    "subcategory": "生命科学",
+    "category": "地道智慧",
+    "publisher": "江苏人民出版社",
+    "id": 185,
+    "energy": "蓝色",
+    "frequency": 8.0,
+    "description": "生命本质的科学探索，揭示身心能量的运作机制"
+  },
+  {
+    "id": 186,
+    "title": "中国传统工艺全集",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "金色",
+    "frequency": 8.3,
+    "description": "匠人精神中的天人合一密码"
+  },
+  {
+    "id": 187,
+    "title": "太极拳论",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "银色",
+    "frequency": 8.8,
+    "description": "以柔克刚的宇宙力学，身心合一的能量运动"
+  },
+  {
+    "id": 188,
+    "title": "彝族文化大典",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "黑色",
+    "frequency": 8.2,
+    "description": "彝族十月太阳历与宇宙观测"
+  },
+  {
+    "id": 189,
+    "title": "藏族文化通论",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "白色",
+    "frequency": 8.5,
+    "description": "藏传佛教与苯教的融合智慧"
+  },
+  {
+    "id": 190,
+    "title": "黄帝内经养生智慧",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "green",
+    "frequency": 8.8,
+    "description": "顺应自然的养生体系"
+  },
+  {
+    "id": 191,
+    "title": "茶道：一片树叶的修行",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "green",
+    "frequency": 8.6,
+    "description": "通过茶事修炼心性的东方艺术"
+  },
+  {
+    "id": 192,
+    "title": "香道：嗅觉的冥想",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "brown",
+    "frequency": 8.5,
+    "description": "香气作为通向高维的门户"
+  },
+  {
+    "id": 193,
+    "title": "书法的心法",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "black",
+    "frequency": 8.7,
+    "description": "笔墨之间的能量流动与心性修炼"
+  },
+  {
+    "id": 194,
+    "title": "古琴：弦外之音",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "brown",
+    "frequency": 8.8,
+    "description": "七弦琴与天地共振的宇宙乐器"
+  },
+  {
+    "id": 195,
+    "title": "京剧的能量程式",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "red",
+    "frequency": 8.3,
+    "description": "程式化表演中的宇宙秩序"
+  },
+  {
+    "id": 196,
+    "title": "中医脉诊学",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "red",
+    "frequency": 8.7,
+    "description": "三指之下的能量信息读取"
+  },
+  {
+    "id": 197,
+    "title": "针灸大成",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "red",
+    "frequency": 8.8,
+    "description": "经络系统的完整操作指南"
+  },
+  {
+    "id": 198,
+    "title": "本草纲目",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "green",
+    "frequency": 8.6,
+    "description": "药物能量的全面百科全书"
+  },
+  {
+    "id": 199,
+    "title": "天工开物",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.4,
+    "description": "明代科技百科中的宇宙观"
+  },
+  {
+    "id": 200,
+    "title": "营造法式",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "brown",
+    "frequency": 8.3,
+    "description": "古代建筑中的风水与能量学"
+  },
+  {
+    "id": 201,
+    "title": "周易参同契",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.9,
+    "description": "炼丹术与宇宙能量的化学反应"
+  },
+  {
+    "id": 202,
+    "title": "抱朴子",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.7,
+    "description": "葛洪的修仙与科学探索"
+  },
+  {
+    "id": 203,
+    "title": "黄庭经",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.8,
+    "description": "人体内部的能量景观图"
+  },
+  {
+    "id": 204,
+    "title": "性命圭旨",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "red",
+    "frequency": 8.9,
+    "description": "内丹修炼的完整地图"
+  },
+  {
+    "id": 205,
+    "title": "周易八卦与预测",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.6,
+    "description": "八卦能量的现实应用"
+  },
+  {
+    "id": 206,
+    "title": "印度吠陀占星",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "blue",
+    "frequency": 8.7,
+    "description": "jyotish：光的科学"
+  },
+  {
+    "id": 207,
+    "title": "西方占星学原理",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.5,
+    "description": "行星频率与人类性格的对应"
+  },
+  {
+    "id": 208,
+    "title": "塔罗的智慧",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "purple",
+    "frequency": 8.6,
+    "description": "78 张牌中的宇宙原型"
+  },
+  {
+    "id": 209,
+    "title": "符文密码",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "silver",
+    "frequency": 8.4,
+    "description": "北欧古老字母的魔法力量"
+  },
+  {
+    "id": 210,
+    "title": "玛雅历法解码",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "green",
+    "frequency": 8.8,
+    "description": "时间不是直线而是螺旋"
+  },
+  {
+    "id": 211,
+    "title": "苏菲旋转舞",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "blue",
+    "frequency": 8.7,
+    "description": "通过旋转达到狂喜的宇宙连接"
+  },
+  {
+    "id": 212,
+    "title": "西藏唐卡艺术",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "rainbow",
+    "frequency": 8.6,
+    "description": "可视化的高维地图"
+  },
+  {
+    "id": 213,
+    "title": "曼陀罗绘制",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "rainbow",
+    "frequency": 8.8,
+    "description": "圆中的宇宙：自性化的图形表达"
+  },
+  {
+    "id": 214,
+    "title": "日本花道",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "pink",
+    "frequency": 8.5,
+    "description": "在插花中体验生死与无常"
+  },
+  {
+    "id": 215,
+    "title": "香道与冥想",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "brown",
+    "frequency": 8.6,
+    "description": "嗅觉路径的静心之道"
+  },
+  {
+    "id": 216,
+    "title": "武术内功心法",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "red",
+    "frequency": 8.8,
+    "description": "内家拳的能量修炼秘密"
+  },
+  {
+    "id": 217,
+    "title": "道家辟谷术",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "green",
+    "frequency": 8.7,
+    "description": "断食中的身体净化与意识扩展"
+  },
+  {
+    "id": 218,
+    "title": "藏密气脉修法",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "red",
+    "frequency": 8.9,
+    "description": "脉气明点的修持体系"
+  },
+  {
+    "id": 219,
+    "title": "瑜伽呼吸法",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "blue",
+    "frequency": 8.8,
+    "description": "pranayama：生命能量的控制术"
+  },
+  {
+    "id": 220,
+    "title": "印度手印学",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.6,
+    "description": "mudra：手指的能量回路"
+  },
+  {
+    "id": 221,
+    "title": "颂钵疗愈",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "gold",
+    "frequency": 8.9,
+    "description": "声音频率对细胞的重组效应"
+  },
+  {
+    "id": 222,
+    "title": "吠陀唱诵",
+    "category": "地道智慧",
+    "subcategory": "传统文化与非遗",
+    "energy": "blue",
+    "frequency": 8.8,
+    "description": "mantra：神圣音振的意识塑造力"
+  },
+  {
+    "title": "当下的力量实践手册",
+    "author": "埃克哈特·托利",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中信出版社",
+    "id": 223,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "寂静的智慧",
+    "author": "克里希那穆提",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "深圳报业集团出版社",
+    "id": 224,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "生命之书",
+    "author": "克里希那穆提",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "译林出版社",
+    "id": 225,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "爱的觉醒",
+    "author": "克里希那穆提",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "江苏教育出版社",
+    "id": 226,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "全然接受",
+    "author": "塔拉·布拉赫",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "上海文化出版社",
+    "id": 227,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "觉醒的勇气",
+    "author": "佩玛·丘卓",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "深圳报业集团出版社",
+    "id": 228,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "转逆境为喜悦",
+    "author": "佩玛·丘卓",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中国藏学出版社",
+    "id": 229,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "与无常共处",
+    "author": "佩玛·丘卓",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "深圳报业集团出版社",
+    "id": 230,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "西藏心瑜伽",
+    "author": "咏给·明就仁波切",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "深圳报业集团出版社",
+    "id": 231,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "世界上最快乐的人",
+    "author": "咏给·明就仁波切",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "海南出版社",
+    "id": 232,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "禅者的初心",
+    "author": "铃木俊隆",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "海南出版社",
+    "id": 233,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "禅者的初心续集",
+    "author": "铃木俊隆",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "海南出版社",
+    "id": 234,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "正念：此刻是一枝花",
+    "author": "乔·卡巴金",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "机械工业出版社",
+    "id": 235,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "多舛的生命",
+    "author": "乔·卡巴金",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "机械工业出版社",
+    "id": 236,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "不分心：初学者的正念书",
+    "author": "乔·卡巴金",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中国华侨出版社",
+    "id": 237,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "瑜伽之光",
+    "author": "B.K.S.艾扬格",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "当代中国出版社",
+    "id": 238,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "薄伽梵歌论",
+    "author": "室利·阿罗频多",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "商务印书馆",
+    "id": 239,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "辨喜全集",
+    "author": "辨喜",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "商务印书馆",
+    "id": 240,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "商羯罗著作选",
+    "author": "商羯罗",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "商务印书馆",
+    "id": 241,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "老子河上公章句",
+    "author": "河上公",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 242,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "南华真经注疏",
+    "author": "郭象",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 243,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "黄庭经集注",
+    "author": "陈撄宁",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中央编译出版社",
+    "id": 244,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "周易参同契集释",
+    "author": "朱熹等",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中央编译出版社",
+    "id": 245,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "道德经释义",
+    "author": "任法融",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "东方出版社",
+    "id": 246,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "庄子今注今译",
+    "author": "陈鼓应",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 247,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "了凡四训",
+    "author": "袁了凡",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 248,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "菜根谭",
+    "author": "洪应明",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 249,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "小窗幽记",
+    "author": "陈继儒",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 250,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "围炉夜话",
+    "author": "王永彬",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 251,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "传习录",
+    "author": "王阳明",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "中华书局",
+    "id": 252,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "心学之思",
+    "author": "杨国荣",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "生活·读书·新知三联书店",
+    "id": 253,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "禅与摩托车维修艺术",
+    "author": "罗伯特·波西格",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "重庆出版社",
+    "id": 254,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "瓦尔登湖",
+    "author": "亨利·梭罗",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "上海译文出版社",
+    "id": 255,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "沙乡年鉴",
+    "author": "奥尔多·利奥波德",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "吉林人民出版社",
+    "id": 256,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "查拉图斯特拉如是说",
+    "author": "尼采",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "商务印书馆",
+    "id": 257,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "存在与时间",
+    "author": "海德格尔",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "生活·读书·新知三联书店",
+    "id": 258,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "悉达多",
+    "author": "赫尔曼·黑塞",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "上海译文出版社",
+    "id": 259,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "title": "玻璃球游戏",
+    "author": "赫尔曼·黑塞",
+    "subcategory": "心灵成长与修行",
+    "category": "人道智慧",
+    "publisher": "上海译文出版社",
+    "id": 260,
+    "energy": "白色",
+    "frequency": 9.0,
+    "description": "指引内在觉醒的实用智慧，点亮心灵的明灯"
+  },
+  {
+    "id": 261,
+    "title": "当下的力量",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "blue",
+    "frequency": 9.2,
+    "description": "埃克哈特托利的临在教导，超越思维的解脱之道"
+  },
+  {
+    "id": 262,
+    "title": "奇迹课程",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.6,
+    "description": "圣灵指引的宽恕修炼，从梦中觉醒的系统教程"
+  },
+  {
+    "id": 263,
+    "title": "六祖坛经",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.7,
+    "description": "禅宗顿悟法门的源头，直指人心见性成佛"
+  },
+  {
+    "id": 264,
+    "title": "能量疗愈全书",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 8.9,
+    "description": "人体能量系统的完整操作手册"
+  },
+  {
+    "id": 265,
+    "title": "灵气疗法",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 8.8,
+    "description": "臼井灵气的传承与实践"
+  },
+  {
+    "id": 266,
+    "title": "一个新世界：唤醒内在的力量",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "blue",
+    "frequency": 9.1,
+    "description": "埃克哈特托利的进阶教导"
+  },
+  {
+    "id": 267,
+    "title": "沉默的力量",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.0,
+    "description": "在静默中听到的宇宙之声"
+  },
+  {
+    "id": 268,
+    "title": "臣服实验",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.2,
+    "description": "迈克尔·辛格：让生命来接管"
+  },
+  {
+    "id": 269,
+    "title": "不羁的灵魂",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "blue",
+    "frequency": 9.3,
+    "description": "迈克尔·辛格：解放被囚困的灵魂"
+  },
+  {
+    "id": 270,
+    "title": "西藏生死书",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "purple",
+    "frequency": 9.5,
+    "description": "中阴身阶段的完整导航"
+  },
+  {
+    "id": 271,
+    "title": "达摩血脉论",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.4,
+    "description": "达摩祖师的印心法门"
+  },
+  {
+    "id": 272,
+    "title": "顿悟要诀",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.3,
+    "description": "禅宗修行的核心要点"
+  },
+  {
+    "id": 273,
+    "title": "大圆满心性休息",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.6,
+    "description": "龙钦巴的完整修行地图"
+  },
+  {
+    "id": 274,
+    "title": "明煌宝灯",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.5,
+    "description": "宗喀巴大师的修行总纲"
+  },
+  {
+    "id": 275,
+    "title": "修行百颂",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.3,
+    "description": "阿底峡尊者的修行口诀"
+  },
+  {
+    "id": 276,
+    "title": "密勒日巴道歌",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.4,
+    "description": "实修成就的诗歌记录"
+  },
+  {
+    "id": 277,
+    "title": "内观：葛印卡的教导",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.1,
+    "description": "毗婆舍那禅修的完整指南"
+  },
+  {
+    "id": 278,
+    "title": "正念的奇迹",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 9.0,
+    "description": "一行禅师的日常正念教导"
+  },
+  {
+    "id": 279,
+    "title": "观呼吸",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 8.9,
+    "description": "安那般那念的系统修持"
+  },
+  {
+    "id": 280,
+    "title": "原始佛法",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.2,
+    "description": "回归佛陀最初的教导"
+  },
+  {
+    "id": 281,
+    "title": "阿含经精要",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.1,
+    "description": "早期佛教的核心法义"
+  },
+  {
+    "id": 282,
+    "title": "中观心要",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.4,
+    "description": "空性智慧的心法传承"
+  },
+  {
+    "id": 283,
+    "title": "大手印教法",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "white",
+    "frequency": 9.5,
+    "description": "噶举派的最高教法"
+  },
+  {
+    "id": 284,
+    "title": "道果：萨迦派传承",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.4,
+    "description": "轮涅无别的甚深教授"
+  },
+  {
+    "id": 285,
+    "title": "中阴闻教得度",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "purple",
+    "frequency": 9.5,
+    "description": "度亡经：死后世界的导航手册"
+  },
+  {
+    "id": 286,
+    "title": "鲁米诗集",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.3,
+    "description": "苏菲神秘主义的爱情与智慧"
+  },
+  {
+    "id": 287,
+    "title": "哈菲兹诗集",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 9.2,
+    "description": "波斯诗人的灵性启示"
+  },
+  {
+    "id": 288,
+    "title": "圣经：创世记解码",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.0,
+    "description": "从灵性视角重新理解创世神话"
+  },
+  {
+    "id": 289,
+    "title": "诗篇的能量",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "blue",
+    "frequency": 9.1,
+    "description": "圣经诗歌的振动频率分析"
+  },
+  {
+    "id": 290,
+    "title": "卡巴拉的生命之树",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.3,
+    "description": "犹太神秘主义的宇宙蓝图"
+  },
+  {
+    "id": 291,
+    "title": "易经与预测艺术",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.1,
+    "description": "作为灵性工具的占卜术"
+  },
+  {
+    "id": 292,
+    "title": "塔罗冥想",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "purple",
+    "frequency": 9.0,
+    "description": "通过大阿卡纳的灵性旅程"
+  },
+  {
+    "id": 293,
+    "title": "占星术与灵魂进化",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "gold",
+    "frequency": 9.1,
+    "description": "星盘中的灵魂成长路径"
+  },
+  {
+    "id": 294,
+    "title": "数字学：生命密码",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "blue",
+    "frequency": 8.9,
+    "description": "数字背后的宇宙信息"
+  },
+  {
+    "id": 295,
+    "title": "颜色疗愈学",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "rainbow",
+    "frequency": 8.8,
+    "description": "色彩频率对情绪与健康的影响"
+  },
+  {
+    "id": 296,
+    "title": "声音疗愈的科学与艺术",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "blue",
+    "frequency": 9.0,
+    "description": "频率、共振与意识的深层关系"
+  },
+  {
+    "id": 297,
+    "title": "芳香疗法：精油的能量",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 8.7,
+    "description": "植物精萃的灵性应用"
+  },
+  {
+    "id": 298,
+    "title": "步行冥想",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "green",
+    "frequency": 8.8,
+    "description": "在日常行走中保持觉知"
+  },
+  {
+    "id": 299,
+    "title": "茶禅一味",
+    "category": "人道智慧",
+    "subcategory": "心灵成长与修行",
+    "energy": "brown",
+    "frequency": 9.0,
+    "description": "茶道中的禅宗智慧"
+  },
+  {
+    "id": 300,
+    "title": "穷查理宝典",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.5,
+    "description": "芒格多元思维模型的智慧结晶"
+  },
+  {
+    "id": 301,
+    "title": "从 0 到 1",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.7,
+    "description": "彼得蒂尔的创新哲学与秘密思维"
+  },
+  {
+    "id": 302,
+    "title": "沉思录",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "purple",
+    "frequency": 8.8,
+    "description": "斯多葛哲学的皇帝箴言，逆境中的心灵铠甲"
+  },
+  {
+    "id": 303,
+    "title": "女性的觉醒",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "pink",
+    "frequency": 9.1,
+    "description": "女性能量觉醒的时代先声"
+  },
+  {
+    "id": 304,
+    "title": "蒙田随笔",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.6,
+    "description": "法国哲人的人生智慧"
+  },
+  {
+    "id": 305,
+    "title": "第二性",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "pink",
+    "frequency": 8.9,
+    "description": "波伏娃：女性处境的深刻剖析"
+  },
+  {
+    "id": 306,
+    "title": "活出生命的意义",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 9.2,
+    "description": "弗兰克尔：在苦难中找到意义"
+  },
+  {
+    "id": 307,
+    "title": "原则",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.6,
+    "description": "达利奥：生活与工作的系统化思维"
+  },
+  {
+    "id": 308,
+    "title": "思考，快与慢",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.5,
+    "description": "卡尼曼：认知偏见的科学"
+  },
+  {
+    "id": 309,
+    "title": "心智模型",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.7,
+    "description": "掌握跨学科思维工具"
+  },
+  {
+    "id": 310,
+    "title": "黑天鹅",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "black",
+    "frequency": 8.8,
+    "description": "塔勒布：极端事件的影响与应对"
+  },
+  {
+    "id": 311,
+    "title": "反脆弱",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "red",
+    "frequency": 8.9,
+    "description": "从混乱中获益的哲学"
+  },
+  {
+    "id": 312,
+    "title": "奈飞文化手册",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "red",
+    "frequency": 8.4,
+    "description": "自由与责任的企业文化"
+  },
+  {
+    "id": 313,
+    "title": "联盟",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.5,
+    "description": "互联网时代的新型雇佣关系"
+  },
+  {
+    "id": 314,
+    "title": "刻意练习",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.6,
+    "description": "从平凡到卓越的科学与方法"
+  },
+  {
+    "id": 315,
+    "title": "心流",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 9.0,
+    "description": "契克森米哈伊：最优体验心理学"
+  },
+  {
+    "id": 316,
+    "title": "创造力",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "purple",
+    "frequency": 8.8,
+    "description": "发现创造过程的规律"
+  },
+  {
+    "id": 317,
+    "title": "情商",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "red",
+    "frequency": 8.5,
+    "description": "情绪智能的成功密码"
+  },
+  {
+    "id": 318,
+    "title": "社会性动物",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "green",
+    "frequency": 8.7,
+    "description": "社会心理学的经典之作"
+  },
+  {
+    "id": 319,
+    "title": "影响力",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.6,
+    "description": "说服心理学的六大武器"
+  },
+  {
+    "id": 320,
+    "title": "掌控习惯",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "green",
+    "frequency": 8.5,
+    "description": "微小改变带来巨大成果"
+  },
+  {
+    "id": 321,
+    "title": "原子习惯",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.6,
+    "description": "习惯养成的科学系统"
+  },
+  {
+    "id": 322,
+    "title": "深度工作",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "purple",
+    "frequency": 8.7,
+    "description": "在碎片化时代保持专注"
+  },
+  {
+    "id": 323,
+    "title": "学习之道",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.8,
+    "description": "乔希·维茨金：从象棋到太极的 mastery"
+  },
+  {
+    "id": 324,
+    "title": "道德经与管理",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.9,
+    "description": "无为而治的领导智慧"
+  },
+  {
+    "id": 325,
+    "title": "孙子兵法",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "red",
+    "frequency": 8.8,
+    "description": "战略思维的最高经典"
+  },
+  {
+    "id": 326,
+    "title": "鬼谷子",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "purple",
+    "frequency": 8.7,
+    "description": "纵横捭阖的沟通智慧"
+  },
+  {
+    "id": 327,
+    "title": "领导力 21 法则",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.5,
+    "description": "约翰·麦克斯韦尔的领导哲学"
+  },
+  {
+    "id": 328,
+    "title": "第五项修炼",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.7,
+    "description": "学习型组织的系统方法论"
+  },
+  {
+    "id": 329,
+    "title": "从优秀到卓越",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "gold",
+    "frequency": 8.6,
+    "description": "柯林斯：企业飞跃的科学研究"
+  },
+  {
+    "id": 330,
+    "title": "创新者的窘境",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.5,
+    "description": "为什么好公司会失败"
+  },
+  {
+    "id": 331,
+    "title": "蓝海战略",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.6,
+    "description": "开创无人竞争的市场空间"
+  },
+  {
+    "id": 332,
+    "title": "未来简史",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "blue",
+    "frequency": 8.7,
+    "description": "尤瓦尔·赫拉利：人类将走向何方"
+  },
+  {
+    "id": 333,
+    "title": "人类简史",
+    "category": "人道智慧",
+    "subcategory": "商业与人生智慧",
+    "energy": "brown",
+    "frequency": 8.8,
+    "description": "尤瓦尔·赫拉利：人类认知革命的真相"
+  }
+]
